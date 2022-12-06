@@ -1,15 +1,18 @@
 # crownstone-lib-nodejs-ble
-Ble module for the nodejs lib. Uses Noble for ble implementation.
 
-# WORK IN PROGRESS
-Do not use in current state. The bluenet-nodejs-lib is in the process of being separated into individual modules:
-- crownstone-lib-nodejs-core
-- crownstone-lib-nodejs-uart
-- crownstone-lib-nodejs-ble
-- crownstone-lib-nodejs-cloud
-- crownstone-lib-nodejs-sse
+BLE module for the nodejs lib. This uses Noble for the BLE implementation.
 
-Will be usable on release 1.0.
+# Work in progress!
+
+This is the only nodejs module that is not in active use. It is not up-to-date with respect to recent packet definitions. Use the python [ble lib](https://github.com/crownstone/crownstone-lib-python-ble) for that.
+
+# Overview of the nodejs modules
+
+- https://github.com/crownstone/crownstone-lib-python-core
+- https://github.com/crownstone/crownstone-lib-python-uart
+- https://github.com/crownstone/crownstone-lib-python-ble
+- https://github.com/crownstone/crownstone-lib-python-cloud
+- https://github.com/crownstone/crownstone-lib-python-sse
 
 # License
 
