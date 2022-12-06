@@ -8,11 +8,11 @@ This is the only nodejs module that is not in active use. It is not up-to-date w
 
 # Overview of the nodejs modules
 
-- https://github.com/crownstone/crownstone-lib-python-core
-- https://github.com/crownstone/crownstone-lib-python-uart
-- https://github.com/crownstone/crownstone-lib-python-ble
-- https://github.com/crownstone/crownstone-lib-python-cloud
-- https://github.com/crownstone/crownstone-lib-python-sse
+- https://github.com/crownstone/crownstone-lib-nodejs-core
+- https://github.com/crownstone/crownstone-lib-nodejs-uart
+- https://github.com/crownstone/crownstone-lib-nodejs-ble
+- https://github.com/crownstone/crownstone-lib-nodejs-cloud
+- https://github.com/crownstone/crownstone-lib-nodejs-sse
 
 # License
 
